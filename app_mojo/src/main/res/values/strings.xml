@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- App name part -->
-    <string name="app_short_name">MJLauncher</string>
+    <string name="app_short_name">PAGALLauncher</string>
 
     <!-- Action bar part -->
 
@@ -33,12 +33,12 @@
     <string name="toast_3">Exit</string>
     -->
 
-    <!-- MCLauncherActivity: Tabs -->
+    <!-- PAGALLauncherActivity: Tabs -->
     <string name="mcl_tab_wiki">Wiki</string>
 
-    <!-- MCLauncherActivity: Account status -->
+    <!-- PAGALLauncherActivity: Account status -->
 
-    <!-- MCLauncherActivity: Strings -->
+    <!-- PAGALLauncherActivity: Strings -->
     <string name="mcl_launch_cleancache">Cleaning cache files</string>
     <string name="mcl_launch_downloading">Downloading %s</string>
     <string name="mcl_launch_downloading_progress">"Downloading %s (%.2f MB / %.2f MB)"</string>
